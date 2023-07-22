@@ -1,0 +1,3 @@
+Money: 0
+OpenedThemes: 0
+CurrentTheme: 0
